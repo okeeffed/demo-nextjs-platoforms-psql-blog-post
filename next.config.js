@@ -8,6 +8,7 @@ module.exports = {
       "abs.twimg.com",
       "pbs.twimg.com",
       "avatars.githubusercontent.com",
+      "unsplash.it",
     ],
   },
   reactStrictMode: true,
